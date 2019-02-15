@@ -1,4 +1,4 @@
-# ParsEval (PCFG Parser Evaluation)
+# PCFG Parser Evaluation
 
 ## 1. Objective
 
